@@ -70,10 +70,10 @@ To run this application on your local machine, follow these steps:
 
 The necessary Python libraries are listed in `requirements.txt`: 📋
 
-* `streamlit` [cite: 1]
-* `tensorflow==2.16.1` [cite: 1]
-* `numpy` [cite: 1]
-* `Pillow` [cite: 1]
+* `streamlit` 
+* `tensorflow==2.16.1`
+* `numpy` 
+* `Pillow`
 
 ## Results
 
