@@ -1,3 +1,4 @@
+python==3.12.3
 streamlit
 tensorflow==2.16.1  # Or tensorflow==2.18.1 or tensorflow==2.19.0 if you prefer
 numpy
